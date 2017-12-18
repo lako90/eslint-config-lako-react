@@ -31,5 +31,5 @@ Add `lako-react` to the 'extends' section of your `.eslintrc` configuration file
 ## Rules
 
 * "react/prefer-stateless-function": 0
-* "react/jsx-curly-brace-presence": [1, { "props": never, "children": always }]
+* "react/jsx-curly-brace-presence": 0
 * "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
