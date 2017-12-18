@@ -4,7 +4,7 @@
   "description": "Personal addintional rules to react app",
   "keywords": [
     "eslint",
-    "eslintconfig",
+    "eslintconfig"
   ],
   "author": "lako",
   "main": "index.js",
