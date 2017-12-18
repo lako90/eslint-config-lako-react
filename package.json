@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lako-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Personal addintional rules to react app",
   "keywords": [
     "eslint",
