@@ -20,11 +20,13 @@ $ npm install eslint-config-lako-react --save-dev
 
 ## Usage
 
-Add `lako-react` to the 'extends' section of your `.eslintrc` configuration file. You can omit the `eslint-config-` prefix:
+Add `lako-react` to the 'extends' section of your `.eslintrc` configuration file. You omit the `eslint-config-` prefix:
 
 ```json
 {
-    "extends": ["lako-react"]
+    "extends": [
+        "lako-react"
+    ]
 }
 ```
 
@@ -32,4 +34,3 @@ Add `lako-react` to the 'extends' section of your `.eslintrc` configuration file
 
 * "react/prefer-stateless-function": 0
 * "react/jsx-curly-brace-presence": 0
-* "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
