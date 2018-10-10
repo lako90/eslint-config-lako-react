@@ -19,6 +19,7 @@ $ npm install eslint-config-lako-react --save-dev
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-config-lako-react` globally.
 
 ## Usage
+Raccomand to use with [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
 
 Add `lako-react` to the 'extends' section of your `.eslintrc` configuration file. You omit the `eslint-config-` prefix:
 

@@ -8,9 +8,6 @@
   ],
   "author": "lako",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha tests --recursive"
-  },
   "peerDependencies": {
     "eslint": ">= 3",
     "eslint-plugin-react": "^7.5.1"
